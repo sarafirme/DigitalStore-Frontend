@@ -4,25 +4,25 @@
   style="display: flex; justify-content: space-between;"
 >
   <img
-    src="imgs/logo-iel.png"
+    src="../imgs/logo-iel.png"
     alt="Instituto Euvaldo Lodi"
     width="100"
   >
   <img
-    src="imgs/logo-fiec.png"
+    src="../imgs/logo-fiec.png"
     alt="Fundação Indaiatubana de Educação e Cultura" width="120"
   >
   <img
-    src="imgs/logo-adece.png"
+    src="../imgs/logo-adece.png"
     alt="Agência de Desenvolvimento do Estado do Ceará" width="130"
   >
   <img
-    src="imgs/logo-governo-ceara.png"
+    src="../imgs/logo-governo-ceara.png"
     alt="Governo do Estado do Ceará"
     width="90"
   >
   <img
-    src="imgs/logo-geracao-tech.png"
+    src="../imgs/logo-geracao-tech.png"
     alt="Governo do Estado do Ceará"
     width="160"
   >
