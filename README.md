@@ -4,25 +4,25 @@
   style="display: flex; justify-content: space-between;"
 >
   <img
-    src="imgs/logo-iel.png"
+    src="../imgs/logo-iel.png"
     alt="Instituto Euvaldo Lodi"
     width="100"
   >
   <img
-    src="imgs/logo-fiec.png"
+    src="../imgs/logo-fiec.png"
     alt="Fundação Indaiatubana de Educação e Cultura" width="120"
   >
   <img
-    src="imgs/logo-adece.png"
+    src="../imgs/logo-adece.png"
     alt="Agência de Desenvolvimento do Estado do Ceará" width="130"
   >
   <img
-    src="imgs/logo-governo-ceara.png"
+    src="../imgs/logo-governo-ceara.png"
     alt="Governo do Estado do Ceará"
     width="90"
   >
   <img
-    src="imgs/logo-geracao-tech.png"
+    src="../imgs/logo-geracao-tech.png"
     alt="Governo do Estado do Ceará"
     width="160"
   >
@@ -30,22 +30,22 @@
 
 ---
 
-This repository is the first test of the course [Geração Tech](https://geracaotech.iel-ce.org.br/)
+Esse repositório é a primeira prova do curso [Geração Tech](https://geracaotech.iel-ce.org.br/)
 
- A project by the [Euvaldo Lodi Institute](https://www.ielbahia.com.br/) (IEL) and the [Government of the State of Ceará](https://www.ceara.gov.br/) through the [Ceará State Development Agency](https://www.adece.ce.gov.br/) (ADECE) for training young people in technology.
+Um projeto do [Instituto Euvaldo Lodi](https://www.ielbahia.com.br/) (IEL) e o [Governo do Estado do Ceará](https://www.ceara.gov.br/) por meio da [Agência de Desenvolvimento do Estado do Ceará](https://www.adece.ce.gov.br/) (ADECE) para capacitação de jovens na área da tecnologia.
 
-The initiative aims to offer training in Web Development.
+A iniciativa tem o objetivo de oferecer Formação em Desenvolvimento Web.
 
-# Project
-This is the README for the project. You can read it in other languages:
+# Projeto
+Este é o README do projeto. Você pode lê-lo em outros idiomas:
 
-- [README Brazilian Portuguese](docs/README.pt-BR.md)
+- [README EUA Inglês ](docs/README.EUA-en.md)
 
 
-# 1. Project objective 🤓
-This project is a test whose activity is to develop the front-end of a fictitious E-commerce to test web development skills and teamwork.
+# 1. Objetivo da Projeto 🤓
+Esse projeto é uma prova cuja a atividade é desenvolver o front-end de um E-commerce fictício para testar as habilidades de desenvolvimento web e trabalho em equipe.
 
-## 1.1 Technologies used
+## 1.1 Tecnologias Utilizadas
 <!-- ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css) -->
@@ -55,33 +55,36 @@ This project is a test whose activity is to develop the front-end of a fictitiou
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
-# 2. Project structure 📂
--  ``src/`` - Project source code.
-- ``components/`` - Reusable React components.
-- ``pages/`` - Main e-commerce pages (home, product, cart, checkout, etc.).
-- ``src/assets/`` - Images, icons and other static resources.
-- ``src/index.css`` - CSS configuration files.
-- ``public/`` - Public files accessible directly from the browser.
+# 2. Estrutura do Projeto 📂
+## Organização de Pastas 
+-  ``src/`` - Código fonte do projeto.
+- ``components/`` - Componentes React reutilizáveis.
+- ``pages/`` - Páginas principais do e-commerce (home, produto, carrinho, checkout, etc.).
+- ``src/assets/`` - Imagens, ícones e outros recursos estáticos.
+- ``src/index.css`` - Arquivos de configuração do CSS.
+- ``public/`` - Arquivos públicos acessíveis diretamente pelo navegador.
 
-# 3. Start Project ⌨️
-1. Install the latest [LTS version of NodeJS](https://nodejs.org/)
-2. Check the installation with the bash commands : ``node -v`` and ``npm -v``
-3. Clone this repository with : 
+# 3. Iniciar Projeto ⌨️
+1. Instale a ultima versão [LTS do NodeJS](https://nodejs.org/)
+2. Verifique a instalação com os comandos bash : ``node -v`` e ``npm -v``
+3. Clone esse repositorio com : 
     ```bash
     # HTTPS
-    git clone https://github.com/rafaelcesar0/Digital-Store.git
+    git clone https://github.com/sarafirme/DigitalStore-Frontend.git
     ```
-    or
+    ou
     ```bash
     # SSH
-    git clone git@github.com:rafaelcesar0/Digital-Store.git
+    git clone git@github.com:sarafirme/DigitalStore-Frontend.git
     ```
-    or do [Download ZIP](https://github.com/rafaelcesar0/Digital-Store/archive/refs/heads/main.zip)
-4. Now open the terminal in the project folder and run : 
+    ou faça [Download ZIP](https://github.com/sarafirme/DigitalStore-Frontend/archive/refs/heads/main.zip)
+4. Agore abra o terminal na pasta do projeto e execute : 
     ```bash
-    npm i # Installs all dependencies
-    npm run dev # Execute the project
+    npm i # Instala todas as dependências
+    npm run dev # Executa o projeto
     ```
-# 4. Team
+
+# 4. Equipe
 [Rafael](https://github.com/rafaelcesar0) | [Lucius](https://github.com/LuciusHx) | [Jean](https://github.com/Jean-coll) | [Sara](https://github.com/sarafirme) | [Stefani](https://github.com/Stefanisrodrigues) | [Lariça](https://github.com/larigeorgia )
-# Have fun ! 😁
+
+# Divirta-se ! 😁
