@@ -69,14 +69,14 @@ Esse projeto é uma prova cuja a atividade é desenvolver o front-end de um E-co
 3. Clone esse repositorio com : 
     ```bash
     # HTTPS
-    git clone https://github.com/rafaelcesar0/Digital-Store.git
+    git clone https://github.com/sarafirme/DigitalStore-Frontend.git
     ```
     ou
     ```bash
     # SSH
-    git clone git@github.com:rafaelcesar0/Digital-Store.git
+    git clone git@github.com:sarafirme/DigitalStore-Frontend.git
     ```
-    ou faça [Download ZIP](https://github.com/rafaelcesar0/Digital-Store/archive/refs/heads/main.zip)
+    ou faça [Download ZIP](https://github.com/sarafirme/DigitalStore-Frontend/archive/refs/heads/main.zip)
 4. Agore abra o terminal na pasta do projeto e execute : 
     ```bash
     npm i # Instala todas as dependências
